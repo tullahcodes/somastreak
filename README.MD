@@ -1,6 +1,6 @@
 # SomaStreak 
 
-> A gamified social reading platform that turns solo study sessions into a competitive, addictive experience.
+> A gamified social reading platform that turns solo study sessions into a competitive, engaging experience.
 
 **Live Demo:** [somastreak.vercel.app](https://somastreak.vercel.app)
 
